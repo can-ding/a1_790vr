@@ -1,0 +1,34 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore Unity temp files
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Ignore Auto-generated VS/MD solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Ignore Unity Asset Store tools
+[Aa]ssets/AssetStoreTools*
+
+# OS-specific
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
